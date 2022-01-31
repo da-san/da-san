@@ -13,7 +13,7 @@ I'm a freelancer right now, but in past I worked for many agencies located in Mi
 - 🧒 2012 / 2013 - Forchets SPA / Drupal Specialist Junior
 - 👶 2008 / 2012 - Plurimedia SRL / Web developer Junior - Account
 
-In my spare time i play videogames 🕹️, read steampunk Books 📚, and i love learn somthing new every day ✨
+In my spare time i play videogames 🕹️, read steampunk Books 📚, and i love learn something new every day ✨
 
 ## Facts
 - 🔭 I’m currently working on my **personal website**
