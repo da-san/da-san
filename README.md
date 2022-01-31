@@ -17,7 +17,7 @@ In my spare time i play videogames 🕹️, read steampunk Books 📚, and i lov
 
 ## Facts
 - 🔭 I’m currently working on my **personal website**
-- 🌱 I’m currently learning **phyton** 
+- 🌱 I’m currently learning **python** 
 - 📫 How to reach me: mail@davidesanfilippo.it
 - ⚡ Fun fact: i love Doctor Who, lol 😂
 
