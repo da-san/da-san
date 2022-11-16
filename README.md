@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 i'm Davide, a Geek/nerd Front-end Developer from Italy, nice too meet you! ✨<br>
 I'm a freelancer right now, but in past I worked for many agencies located in Milan/Turin.
-
+- 👴 2021 /  &nbsp;∞ &nbsp; &nbsp;   - Webdesigner Freelance 
 - 👨‍🦳 2018 / 2021 - Sipal SPA / Web Developer
 - 🧔 2013 / 2018 - Wellnet SRL / Front-End Developer
 - 🧒 2012 / 2013 - Forchets SPA / Drupal Specialist Junior
